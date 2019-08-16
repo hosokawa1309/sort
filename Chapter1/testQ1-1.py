@@ -1,6 +1,5 @@
 import unittest
-from module import search_deplicated , judge_anagram
-
+from module import search_deplicated , judge_anagram , URLify
 
 class TestSearchDeplicated(unittest.TestCase):
     '''
@@ -32,8 +31,12 @@ class TestSearchDeplicated(unittest.TestCase):
     def testURLify(self):
         '''
         URLifyのテストを行う
-        :return:
         '''
+
+        input = ["Mr John Smith " , 13]
+        expect = "Mr%20John%20Smith"
+        result = URLify.URLify(input[0],input[1])
+        self.assertEqual(result , expect)
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
