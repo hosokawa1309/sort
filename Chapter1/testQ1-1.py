@@ -1,5 +1,5 @@
 import unittest
-from module import search_deplicated , judge_anagram , URLify
+from module import search_deplicated , judge_anagram , urlify , palindrome
 
 class TestSearchDeplicated(unittest.TestCase):
     '''
@@ -28,15 +28,22 @@ class TestSearchDeplicated(unittest.TestCase):
             result = judge_anagram.judge_anagram(value[0],value[1])
             self.assertEqual(result , expect[idx])
 
-    def testURLify(self):
+    def testurlify(self):
         '''
         URLifyのテストを行う
         '''
 
         input = ["Mr John Smith " , 13]
         expect = "Mr%20John%20Smith"
-        result = URLify.URLify(input[0],input[1])
+        result = urlify.urlify(input[0],input[1])
         self.assertEqual(result , expect)
+
+    def test_palindrome(self):
+        input = ["aaa abs","sbaabs"]
+        expext = [False,True]
+        for index , value in enumerate(input):
+            result = palindrome.palindrome(value)
+            self.assertEqual(expext[index],result)
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

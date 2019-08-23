@@ -1,4 +1,4 @@
-def URLify(str , num):
+def urlify(str , num):
     list_str = [char for char in str]
     list_str = list_str[:-1:]
 

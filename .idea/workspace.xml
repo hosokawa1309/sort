@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b2f4fc-2309-497a-b7f4-a504ad668e40" name="Default Changelist" comment="" />
+    <list default="true" id="f6b2f4fc-2309-497a-b7f4-a504ad668e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter1/module/oneshot_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/module/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/module/rotation_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/module/string_ compression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cracking_the_codinginterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cracking_the_codinginterview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/module/URLify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/module/urlify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/testQ1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/testQ1-1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,21 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter1/module/search_deplicated.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter1/testQ1-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            <state relative-caret-position="375">
+              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -32,10 +33,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter1/module/URLify.py">
+        <entry file="file://$PROJECT_DIR$/Chapter1/module/oneshot_conversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter1/module/string_ compression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter1/module/rotation_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter1/module/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter1/module/urlify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -78,16 +115,19 @@
         <option value="$PROJECT_DIR$/Chapter1_test/testQ1-1_search_deplicated.py" />
         <option value="$PROJECT_DIR$/Chapter1_test/Chapter1/judge_anagram.py" />
         <option value="$PROJECT_DIR$/Chapter1_test/testQ1-1.py" />
-        <option value="$PROJECT_DIR$/Chapter1/testQ1-1.py" />
         <option value="$PROJECT_DIR$/Chapter1/module/URLify.py" />
+        <option value="$PROJECT_DIR$/Chapter1/module/palindrome.py" />
+        <option value="$PROJECT_DIR$/Chapter1/module/urlify.py" />
+        <option value="$PROJECT_DIR$/Chapter1/testQ1-1.py" />
+        <option value="$PROJECT_DIR$/Chapter1/module/oneshot_conversion.py" />
+        <option value="$PROJECT_DIR$/Chapter1/module/string_ compression.py" />
+        <option value="$PROJECT_DIR$/Chapter1/module/rotation_matrix.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="103" />
-    <option name="y" value="23" />
-    <option name="width" value="1337" />
-    <option name="height" value="812" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,7 +165,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in testQ1-1.py">
-    <configuration name="URLify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.rotation_matrix">
+    <configuration name="rotation_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cracking_the_codinginterview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +211,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/module/URLify.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/module/rotation_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="judge_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="string_ compression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cracking_the_codinginterview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,34 +228,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1_test/Chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1_test/Chapter1/judge_anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cracking_the_codinginterview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1_test/testQ1-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/module/string_ compression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +257,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in testQ1-1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_judge_anagram" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cracking_the_codinginterview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,17 +268,33 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter1/testQ1-1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;testQ1-1.TestSearchDeplicated.test_judge_anagram&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_codinginterview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testQ1-1.TestSearchDeplicated.test_palindrome&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in testQ1-1.py" />
+        <item itemvalue="Python.rotation_matrix" />
+        <item itemvalue="Python.string_ compression" />
+        <item itemvalue="Python tests.Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" />
         <item itemvalue="Python tests.Unittests for testQ1-1.TestSearchDeplicated.testURLify" />
-        <item itemvalue="Python.URLify" />
-        <item itemvalue="Python.test_1-1" />
-        <item itemvalue="Python.judge_anagram" />
+        <item itemvalue="Python tests.Unittests for testQ1-1.TestSearchDeplicated.test_judge_anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +308,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565841677577</updated>
-      <workItem from="1565841680715" duration="6923000" />
+      <workItem from="1565841680715" duration="11918000" />
+      <workItem from="1566547870832" duration="10000" />
+      <workItem from="1566547909687" duration="17000" />
     </task>
     <servers />
   </component>
@@ -282,35 +318,62 @@
     <history-entry file="Unittests_in_testQ1-1_py - 2019.08.16 at 18h 37m 22s.xml">
       <configuration name="Unittests in testQ1-1.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_search_deplicated - 2019.08.20 at 16h 39m 20s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_search_deplicated" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_judge_anagram - 2019.08.20 at 16h 40m 01s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_judge_anagram" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_testURLify - 2019.08.20 at 16h 40m 10s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.testURLify" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 40m 16s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 40m 48s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 41m 01s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 43m 57s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 45m 24s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testQ1-1_TestSearchDeplicated_test_palindrome - 2019.08.20 at 16h 45m 48s.xml">
+      <configuration name="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6923000" />
+    <option name="totallyTimeSpent" value="11945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20958512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32916668" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28554216" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -339,24 +402,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Chapter1/module/URLify.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cracking_the_codinginterview$Unittests_in_testQ1_1_py.coverage" NAME="Unittests in testQ1-1.py Coverage Results" MODIFIED="1565948242387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/cracking_the_codinginterview$test.coverage" NAME="test Coverage Results" MODIFIED="1565943483484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
-    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$URLify.coverage" NAME="URLify Coverage Results" MODIFIED="1565948227066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/module" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$Unittests_for_testQ1_1_TestSearchDeplicated_test_search_deplicated.coverage" NAME="Unittests for testQ1-1.TestSearchDeplicated.test_search_deplicated Coverage Results" MODIFIED="1566286760119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
     <SUITE FILE_PATH="coverage/cracking_the_codinginterview$test_1_1.coverage" NAME="test_1-1 Coverage Results" MODIFIED="1565947234414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1_test" />
     <SUITE FILE_PATH="coverage/cracking_the_codinginterview$judge_anagram.coverage" NAME="judge_anagram Coverage Results" MODIFIED="1565947227721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1_test/Chapter1" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$string__compression.coverage" NAME="string_ compression Coverage Results" MODIFIED="1566547164386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/module" />
     <SUITE FILE_PATH="coverage/cracking_the_codinginterview$1_1.coverage" NAME="1-1 Coverage Results" MODIFIED="1565843689025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$Unittests_for_testQ1_1_TestSearchDeplicated_testURLify.coverage" NAME="Unittests for testQ1-1.TestSearchDeplicated.testURLify Coverage Results" MODIFIED="1566286810222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$URLify.coverage" NAME="URLify Coverage Results" MODIFIED="1565948227066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/module" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1566286093503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/module" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$Unittests_for_testQ1_1_TestSearchDeplicated_test_judge_anagram.coverage" NAME="Unittests for testQ1-1.TestSearchDeplicated.test_judge_anagram Coverage Results" MODIFIED="1566286801366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$rotation_matrix.coverage" NAME="rotation_matrix Coverage Results" MODIFIED="1566547717073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/module" />
+    <SUITE FILE_PATH="coverage/cracking_the_codinginterview$Unittests_for_testQ1_1_TestSearchDeplicated_test_palindrome.coverage" NAME="Unittests for testQ1-1.TestSearchDeplicated.test_palindrome Coverage Results" MODIFIED="1566287148562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
@@ -373,23 +432,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1_test/Chapter1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_test/Chapter1/test.py" />
     <entry file="file://$PROJECT_DIR$/Chapter1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1_test/Chapter1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_test/Chapter1/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Chapter1/module/search_deplicated.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/testQ1-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/module/oneshot_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/module/string_ compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/module/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/module/urlify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -400,20 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/module/URLify.py">
+    <entry file="file://$PROJECT_DIR$/Chapter1/module/rotation_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/testQ1-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
